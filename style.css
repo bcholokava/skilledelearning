@@ -13,6 +13,10 @@ html {
   display: none;
 }
 
+.img-mobile {
+display:none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -289,6 +293,10 @@ html {
   .img-tablet {
     display: block;
   }
+
+  .img-mobile {
+  display:none;
+}
 
   .img-container {
     position: relative;
